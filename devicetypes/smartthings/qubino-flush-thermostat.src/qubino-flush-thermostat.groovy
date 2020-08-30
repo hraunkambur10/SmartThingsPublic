@@ -13,7 +13,7 @@
  *
  */
 metadata {
-	definition (name: "Qubino Flush Thermostat", namespace: "smartthings", author: "SmartThings", ocfDeviceType: "oic.d.thermostat") {
+	definition (name: "Qubino Flush Thermostat smartthings", namespace: "smartthings", author: "SmartThings", ocfDeviceType: "oic.d.thermostat") {
 		capability "Thermostat"
 		capability "Thermostat Mode"
 		capability "Thermostat Heating Setpoint"
